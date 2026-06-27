@@ -15,3 +15,6 @@
 # **
  
 databricks-notebooks/01. Batch Read for Complex json.ipynb
+databricks-notebooks/02. Read and Write Stream for complex json.ipynb
+databricks-notebooks/03. Use Archiving.ipynb
+databricks-notebooks/04. Output Mode.ipynb
